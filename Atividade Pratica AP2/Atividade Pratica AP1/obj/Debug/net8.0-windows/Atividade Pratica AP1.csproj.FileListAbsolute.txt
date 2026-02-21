@@ -1,0 +1,18 @@
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\bin\Debug\net8.0-windows\Atividade Pratica AP1.exe
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\bin\Debug\net8.0-windows\Atividade Pratica AP1.deps.json
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\bin\Debug\net8.0-windows\Atividade Pratica AP1.runtimeconfig.json
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\bin\Debug\net8.0-windows\Atividade Pratica AP1.dll
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\bin\Debug\net8.0-windows\Atividade Pratica AP1.pdb
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade_Pratica_AP1.FormAP1.resources
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.csproj.GenerateResource.cache
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.AssemblyInfoInputs.cache
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.AssemblyInfo.cs
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.csproj.CoreCompileInputs.cache
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.dll
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\refint\Atividade Pratica AP1.dll
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.pdb
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade Pratica AP1.genruntimeconfig.cache
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\ref\Atividade Pratica AP1.dll
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade_Pratica_AP1.AP1.resources
+C:\Users\Weberson Oliveira\source\repos\Atividade Pratica AP1\Atividade Pratica AP1\obj\Debug\net8.0-windows\Atividade_Pratica_AP1.Ap2.resources
